@@ -41,6 +41,7 @@ import net.opengis.wps._2_0.ProcessOffering;
 import org.junit.Assert;
 import org.junit.Test;
 import org.orbisgis.wpsgroovyapi.attributes.ProcessAttribute;
+import org.orbisgis.wpsservice.impl.controller.utils.ObjectAnnotationConverter;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;

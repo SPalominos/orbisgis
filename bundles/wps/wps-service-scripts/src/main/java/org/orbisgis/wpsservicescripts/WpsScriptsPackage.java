@@ -39,9 +39,9 @@ package org.orbisgis.wpsservicescripts;
 import net.opengis.ows._2.CodeType;
 import org.apache.commons.io.IOUtils;
 import org.orbisgis.frameworkapi.CoreWorkspace;
-import org.orbisgis.wpsservice.LocalWpsServer;
+import org.orbisgis.wpsservice.api.LocalWpsServer;
 
-import org.orbisgis.wpsservice.controller.process.ProcessIdentifier;
+import org.orbisgis.wpsservice.impl.controller.process.ProcessIdentifier;
 import org.orbisgis.wpsclient.api.InternalWpsClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

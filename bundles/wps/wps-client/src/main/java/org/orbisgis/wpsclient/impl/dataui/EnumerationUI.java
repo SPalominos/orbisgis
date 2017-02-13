@@ -45,7 +45,7 @@ import org.orbisgis.sif.common.ContainerItem;
 import org.orbisgis.wpsclient.impl.WpsClientImpl;
 import org.orbisgis.wpsclient.api.dataui.DataUI;
 import org.orbisgis.wpsclient.impl.utils.ToolBoxIcon;
-import org.orbisgis.wpsservice.model.Enumeration;
+import org.orbisgis.wpsservice.impl.model.Enumeration;
 import org.slf4j.LoggerFactory;
 import org.xnap.commons.i18n.I18n;
 import org.xnap.commons.i18n.I18nFactory;

@@ -46,7 +46,7 @@ import org.orbisgis.sif.components.OpenPanel;
 import org.orbisgis.wpsclient.impl.WpsClientImpl;
 import org.orbisgis.wpsclient.api.dataui.DataUI;
 import org.orbisgis.wpsclient.impl.utils.ToolBoxIcon;
-import org.orbisgis.wpsservice.model.RawData;
+import org.orbisgis.wpsservice.impl.model.RawData;
 import org.slf4j.LoggerFactory;
 import org.xnap.commons.i18n.I18n;
 import org.xnap.commons.i18n.I18nFactory;

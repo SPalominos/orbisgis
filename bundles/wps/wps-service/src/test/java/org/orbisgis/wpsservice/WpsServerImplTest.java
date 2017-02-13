@@ -43,7 +43,9 @@ import net.opengis.wps._2_0.GetCapabilitiesType;
 import net.opengis.wps._2_0.ObjectFactory;
 import org.junit.Before;
 import org.junit.Test;
-import org.orbisgis.wpsservice.model.JaxbContainer;
+import org.orbisgis.wpsservice.impl.LocalWpsServerImpl;
+import org.orbisgis.wpsservice.impl.WpsServerImpl;
+import org.orbisgis.wpsservice.impl.model.JaxbContainer;
 
 import javax.xml.bind.JAXBElement;
 import javax.xml.bind.JAXBException;

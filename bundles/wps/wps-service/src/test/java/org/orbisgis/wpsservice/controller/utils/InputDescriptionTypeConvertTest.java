@@ -40,6 +40,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.orbisgis.wpsgroovyapi.attributes.InputAttribute;
 import net.opengis.wps._2_0.*;
+import org.orbisgis.wpsservice.impl.controller.utils.ObjectAnnotationConverter;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;

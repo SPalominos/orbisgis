@@ -44,7 +44,9 @@ import javax.xml.bind.*;
 import net.opengis.wps._2_0.*;
 import org.junit.Assert;
 import org.junit.Test;
-import org.orbisgis.wpsservice.model.JaxbContainer;
+import org.orbisgis.wpsservice.api.WpsServer;
+import org.orbisgis.wpsservice.impl.LocalWpsServerImpl;
+import org.orbisgis.wpsservice.impl.model.JaxbContainer;
 
 /**
  * This test class perform tests about groovy wps scripts.

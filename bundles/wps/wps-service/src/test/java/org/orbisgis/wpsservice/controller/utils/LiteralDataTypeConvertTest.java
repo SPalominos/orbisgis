@@ -41,8 +41,9 @@ import net.opengis.wps._2_0.LiteralDataType;
 import org.junit.Assert;
 import org.junit.Test;
 import org.orbisgis.wpsgroovyapi.attributes.*;
-import org.orbisgis.wpsservice.model.DataType;
-import org.orbisgis.wpsservice.model.MalformedScriptException;
+import org.orbisgis.wpsservice.impl.controller.utils.ObjectAnnotationConverter;
+import org.orbisgis.wpsservice.impl.model.DataType;
+import org.orbisgis.wpsservice.impl.model.MalformedScriptException;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
